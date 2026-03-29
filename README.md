@@ -34,7 +34,8 @@ An interactive dashboard that enables users to:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot](assets/hr1.png)
+![Dashboard Screenshot](assets/hr2.png)
 
 ---
 
