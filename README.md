@@ -7,6 +7,12 @@ This project delivers an **interactive HR Analytics Dashboard** designed to unco
 The dashboard transforms raw HR data into **clear, decision-ready insights** that support strategic workforce planning and organizational growth.
 
 ---
+## 🖼️ Dashboard Preview
+
+![Dashboard Screenshot](assets/hr1.png)
+![Dashboard Screenshot](assets/hr2.png)
+
+---
 
 ## 🎯 Business Problem
 
@@ -29,13 +35,6 @@ An interactive dashboard that enables users to:
 * Analyze salary structure (avg, min, max, total)
 * Understand workforce demographics (age, experience)
 * Drill down from overall view → department → job role
-
----
-
-## 🖼️ Dashboard Preview
-
-![Dashboard Screenshot](assets/hr1.png)
-![Dashboard Screenshot](assets/hr2.png)
 
 ---
 
